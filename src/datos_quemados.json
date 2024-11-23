@@ -1,0 +1,179 @@
+[
+    {
+        "id_palabra": 1,
+        "sansckrit": "Tadasana",
+        "spanish": "Postura de la Montaña",
+        "english": "Mountain Pose",
+        "imagen": "./src/imagenes/tadasana.jpeg",
+        "diccionaryWordModels": [
+            {
+                "id_diccionary_word": {
+                    "id_s": 1,
+                    "id_w": 1
+                },
+                "word": {
+                    "id": 1,
+                    "sans_word": "Asana",
+                    "spanish_w": "postura",
+                    "english_w": "pose"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 1,
+                    "id_w": 25
+                },
+                "word": {
+                    "id": 25,
+                    "sans_word": "Tad",
+                    "spanish_w": "montaña",
+                    "english_w": "mountain"
+                }
+            }
+        ]
+    },
+    {
+        "id_palabra": 2,
+        "sansckrit": "Vrikshasana",
+        "spanish": "Postura del Árbol",
+        "english": "Tree Pose",
+        "imagen": "./src/imagenes/vrikshasana.jpeg",
+        "diccionaryWordModels": [
+            {
+                "id_diccionary_word": {
+                    "id_s": 2,
+                    "id_w": 2
+                },
+                "word": {
+                    "id": 2,
+                    "sans_word": "Asana",
+                    "spanish_w": "postura",
+                    "english_w": "pose"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 2,
+                    "id_w": 26
+                },
+                "word": {
+                    "id": 26,
+                    "sans_word": "Vriksha",
+                    "spanish_w": "árbol",
+                    "english_w": "tree"
+                }
+            }
+        ]
+    },
+    {
+        "id_palabra": 3,
+        "sansckrit": "Bhujangasana",
+        "spanish": "Postura de la Cobra",
+        "english": "Cobra Pose",
+        "imagen": "./src/imagenes/bhujangasana.jpeg",
+        "diccionaryWordModels": [
+            {
+                "id_diccionary_word": {
+                    "id_s": 3,
+                    "id_w": 3
+                },
+                "word": {
+                    "id": 3,
+                    "sans_word": "Asana",
+                    "spanish_w": "postura",
+                    "english_w": "pose"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 3,
+                    "id_w": 27
+                },
+                "word": {
+                    "id": 27,
+                    "sans_word": "Bhujanga",
+                    "spanish_w": "cobra",
+                    "english_w": "cobra"
+                }
+            }
+        ]
+    },
+    {
+        "id_palabra": 4,
+        "sansckrit": "Adho Mukha Svanasana",
+        "spanish": "Postura del Perro Boca Abajo",
+        "english": "Downward Facing Dog",
+        "imagen": "./src/imagenes/adho_mukha_svanasana.jpeg",
+        "diccionaryWordModels": [
+            {
+                "id_diccionary_word": {
+                    "id_s": 4,
+                    "id_w": 4
+                },
+                "word": {
+                    "id": 4,
+                    "sans_word": "Asana",
+                    "spanish_w": "postura",
+                    "english_w": "pose"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 4,
+                    "id_w": 28
+                },
+                "word": {
+                    "id": 28,
+                    "sans_word": "Adho Mukha",
+                    "spanish_w": "boca abajo",
+                    "english_w": "downward facing"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 4,
+                    "id_w": 29
+                },
+                "word": {
+                    "id": 29,
+                    "sans_word": "Svana",
+                    "spanish_w": "perro",
+                    "english_w": "dog"
+                }
+            }
+        ]
+    },
+    {
+        "id_palabra": 5,
+        "sansckrit": "Padmasana",
+        "spanish": "Postura del Loto",
+        "english": "Lotus Pose",
+        "imagen": "./src/imagenes/padmasana.jpeg",
+        "diccionaryWordModels": [
+            {
+                "id_diccionary_word": {
+                    "id_s": 5,
+                    "id_w": 5
+                },
+                "word": {
+                    "id": 5,
+                    "sans_word": "Asana",
+                    "spanish_w": "postura",
+                    "english_w": "pose"
+                }
+            },
+            {
+                "id_diccionary_word": {
+                    "id_s": 5,
+                    "id_w": 30
+                },
+                "word": {
+                    "id": 30,
+                    "sans_word": "Padma",
+                    "spanish_w": "loto",
+                    "english_w": "lotus"
+                }
+            }
+        ]
+    }
+]
